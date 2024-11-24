@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\models\\eflearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\models\\eflearningcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|c:\\users\\shaik\\source\\repos\\entityframeworlwebapi\\entityframeworlwebapi\\entityframeworlwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7CB7D5E6-2B80-4273-9CBA-B5B6599B8E4F}|EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj|solutionrelative:entityframeworlwebapi\\entityframeworlwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Models\\Student.cs",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T05:46:22.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T06:11:33.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityFrameworlWEBAPI",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-11T06:11:30.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Program.cs",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:11:28.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:07:01.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfLearningContext.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Models\\EfLearningContext.cs",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Models\\EfLearningContext.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Models\\EfLearningContext.cs",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Models\\EfLearningContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T06:06:06.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\appsettings.json",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T06:01:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "EntityFrameworlWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\EntityFrameworlWEBAPI\\EntityFrameworlWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "EntityFrameworlWEBAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T05:11:56.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

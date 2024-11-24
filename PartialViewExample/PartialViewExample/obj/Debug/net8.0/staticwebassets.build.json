@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ufbnvC/U9KMYQz5VftkYIp7JkQQ6ybXVwejRHJze8X0=",
+  "Source": "PartialViewExample",
+  "BasePath": "_content/PartialViewExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PartialViewExample\\wwwroot",
+      "Source": "PartialViewExample",
+      "ContentRoot": "C:\\Users\\shaik\\source\\repos\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shaik\\source\\repos\\PartialViewExample\\PartialViewExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "PartialViewExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shaik\\source\\repos\\PartialViewExample\\PartialViewExample\\wwwroot\\",
+      "BasePath": "_content/PartialViewExample",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

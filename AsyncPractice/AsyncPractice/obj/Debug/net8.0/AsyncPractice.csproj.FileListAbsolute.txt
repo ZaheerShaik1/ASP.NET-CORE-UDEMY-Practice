@@ -1,0 +1,14 @@
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.AssemblyInfoInputs.cache
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.AssemblyInfo.cs
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\bin\Debug\net8.0\AsyncPractice.exe
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\bin\Debug\net8.0\AsyncPractice.deps.json
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\bin\Debug\net8.0\AsyncPractice.runtimeconfig.json
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\bin\Debug\net8.0\AsyncPractice.dll
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\bin\Debug\net8.0\AsyncPractice.pdb
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.dll
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\refint\AsyncPractice.dll
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.pdb
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\AsyncPractice.genruntimeconfig.cache
+C:\Users\shaik\source\repos\AsyncPractice\AsyncPractice\obj\Debug\net8.0\ref\AsyncPractice.dll

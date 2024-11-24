@@ -1,0 +1,11 @@
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\shaik\source\repos\DIExample\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll

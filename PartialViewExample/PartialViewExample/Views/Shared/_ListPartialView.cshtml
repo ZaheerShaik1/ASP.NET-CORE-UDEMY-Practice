@@ -1,0 +1,16 @@
+﻿<div class="list-container">
+    <h3>@ViewBag.ListTitle</h3>
+    <ul class="list">
+        @* <li>Delhi</li>
+        <li>Hyderabad</li>
+        <li>Banglore</li>
+        <li>Chennai</li>
+        <li>Mumbai</li> *@
+
+        @foreach(string item in ViewBag.ListItems)
+        {
+            <li>@item</li>
+        }
+    </ul>
+
+</div> 

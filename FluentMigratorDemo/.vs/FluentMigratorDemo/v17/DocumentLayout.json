@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shaik\\source\\repos\\FluentMigratorDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98282EAB-91AC-4220-A948-CCC257F446A8}|FluentMigratorDemo\\FluentMigratorDemo.csproj|c:\\users\\shaik\\source\\repos\\fluentmigratordemo\\fluentmigratordemo\\migrations\\20241121_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98282EAB-91AC-4220-A948-CCC257F446A8}|FluentMigratorDemo\\FluentMigratorDemo.csproj|solutionrelative:fluentmigratordemo\\migrations\\20241121_createproductstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98282EAB-91AC-4220-A948-CCC257F446A8}|FluentMigratorDemo\\FluentMigratorDemo.csproj|c:\\users\\shaik\\source\\repos\\fluentmigratordemo\\fluentmigratordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98282EAB-91AC-4220-A948-CCC257F446A8}|FluentMigratorDemo\\FluentMigratorDemo.csproj|solutionrelative:fluentmigratordemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241121_CreateProductsTable.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\FluentMigratorDemo\\FluentMigratorDemo\\Migrations\\20241121_CreateProductsTable.cs",
+              "RelativeDocumentMoniker": "FluentMigratorDemo\\Migrations\\20241121_CreateProductsTable.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\FluentMigratorDemo\\FluentMigratorDemo\\Migrations\\20241121_CreateProductsTable.cs",
+              "RelativeToolTip": "FluentMigratorDemo\\Migrations\\20241121_CreateProductsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:26:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shaik\\source\\repos\\FluentMigratorDemo\\FluentMigratorDemo\\Program.cs",
+              "RelativeDocumentMoniker": "FluentMigratorDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\shaik\\source\\repos\\FluentMigratorDemo\\FluentMigratorDemo\\Program.cs",
+              "RelativeToolTip": "FluentMigratorDemo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:20:36.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

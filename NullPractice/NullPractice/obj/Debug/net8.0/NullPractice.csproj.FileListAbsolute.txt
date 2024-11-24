@@ -1,0 +1,14 @@
+C:\Users\shaik\source\repos\NullPractice\NullPractice\bin\Debug\net8.0\NullPractice.exe
+C:\Users\shaik\source\repos\NullPractice\NullPractice\bin\Debug\net8.0\NullPractice.deps.json
+C:\Users\shaik\source\repos\NullPractice\NullPractice\bin\Debug\net8.0\NullPractice.runtimeconfig.json
+C:\Users\shaik\source\repos\NullPractice\NullPractice\bin\Debug\net8.0\NullPractice.dll
+C:\Users\shaik\source\repos\NullPractice\NullPractice\bin\Debug\net8.0\NullPractice.pdb
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.AssemblyInfoInputs.cache
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.AssemblyInfo.cs
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.csproj.CoreCompileInputs.cache
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.dll
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\refint\NullPractice.dll
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.pdb
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\NullPractice.genruntimeconfig.cache
+C:\Users\shaik\source\repos\NullPractice\NullPractice\obj\Debug\net8.0\ref\NullPractice.dll
